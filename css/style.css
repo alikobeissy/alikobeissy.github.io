@@ -1,0 +1,30 @@
+body {
+    margin: 10px !important;
+    overflow-x: hidden;
+}
+
+.pinfo {
+    max-width: 80ch;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.pic {
+    display: inline;
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;    
+    border-radius: 50%;  
+    object-fit: cover;
+}
+
+.content {
+    min-height: 500px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
